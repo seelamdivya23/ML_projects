@@ -1,1 +1,1 @@
-## welcome to my ML projects
+## WELCOME TO MY ML PROJECTS
